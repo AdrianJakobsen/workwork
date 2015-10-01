@@ -2,7 +2,7 @@
 public class PatternMatch {
 
     public int patternMatch(String exps, String pattern) {
-        
+
         int lengthOfPattern = pattern.length();
         int lengthOfExpression = exps.length();
 
